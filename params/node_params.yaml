@@ -1,0 +1,10 @@
+
+output_topic: "/output"
+camera_topic: "/camera/depth/points"
+filtered_field_name: "y"
+distance_threshold: .1
+filter_max: 1.0
+filter_min: 0
+leaf_x: .04
+leaf_y: .04
+leaf_z: .04
